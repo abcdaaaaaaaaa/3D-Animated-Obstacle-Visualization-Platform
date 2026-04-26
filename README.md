@@ -1,1 +1,1 @@
-# 3D-360-Dual-Axis-Animated-Obstacle-Visualization-Platform
+# 3D 360 Dual Axis Animated Lidar Obstacle Data Visualization Platform
