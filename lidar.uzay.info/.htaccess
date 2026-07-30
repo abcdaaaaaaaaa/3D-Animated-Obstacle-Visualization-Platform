@@ -1,7 +1,7 @@
 RewriteEngine on
 AddHandler application/x-httpd-ea-php74 .php .php7 .phtml
 
-RewriteRule ^lidar$ index2.php [L,NC]
+RewriteRule ^lidar$ index2.html [L,NC]
 RewriteRule ^simulatex$ simuhorizontal.html [L,NC]
 RewriteRule ^simulatey$ simuvertical.html [L,NC]
 
